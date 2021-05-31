@@ -1,33 +1,33 @@
 :root video {
 	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
 	object-fit: cover;
-}
-
-.showcase {
-	position: absolute;
-	right: 0;
-	width: 100%;
-	min-height: 100vh;
-	padding: 100px;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	z-index: 2;
+	z-index:0;
 }
 
 #console {
 	font-family: courier, monospace;
 	color: #fff;
-	width:750px;
+	width:500px;
 	margin-left:auto;
 	margin-right:auto;
 	margin-top:100px;
 	font-size:14px;
-	z-index: 10;
+}
+
+.container { position:relative; }
+.container video {
+    position:relative;
+    z-index:1;
+}
+.overlay {
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:10;
 }
 
 a {
