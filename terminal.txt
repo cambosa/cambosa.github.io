@@ -1,0 +1,8 @@
+<span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> whoami
+<br>
+<p>Greetings. My name is "<span id="k">Josephino Cambosa</span>. I am specialized in penetration testing, network/host analysis, digital forensics, and incident response.</p><!-- Insertingaslightdelayhere -->
+<p>I enjoy tracking down potential weaknesses, exploiting vulnerabilities, and crafting creative solutions to eliminate them. I am actively working to expand my offensive security expertise.</p><!-- Insertingaslightdelayhere-->
+<br>
+<p>If you would like to contact me, you can send an email to <a href="tacticaltyper@protonmail.com">tacticaltyper@protonmail.com</a> or reach out via Twitter DM.</p>
+<br>
+<span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> exit
