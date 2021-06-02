@@ -5,5 +5,5 @@
 <p>"There is only hard work, late nights, early mornings, practice, rehearsal, repetition, study, sweat, blood, toil, frustration, and discipline." - Jocko Willink </p>
 <p>I am working to expand my offensive security expertise in order to stay ahead of the curve of emerging threats.</p>
 <p>If you would like to contact me, email <a href="tacticaltyper@protonmail.com">tacticaltyper@protonmail.com</a> or reach out on <a href="https://www.linkedin.com/in/josephino-cambosa/">LinkedIn</a>.
-You can explore my interests on <a href="https://twitter.com/TacticalTypist">Twitter</a> and <a href="https://github.com/cambosa">Github</a> as well.</p>
+You can explore my interests on <a href="https://twitter.com/TacticalTypist">Twitter</a> and <a href="https://github.com/jcambosa">Github</a> as well.</p>
 <span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> ssh -D 4128 -i /tmp/key_09123lk4hsdf.pem -p 2048 root@server 'rm -rf /home/user/whoami.txt' 
