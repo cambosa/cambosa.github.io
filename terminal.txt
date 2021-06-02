@@ -1,13 +1,20 @@
 <span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> ssh -D 4128 -C -f -i /tmp/key_09123lk4hsdf.pem -p 2048 -q root@server '[ -f /home/user/whoami.txt ] && cat /home/user/whoami.txt' 
 <br>
 <p>Greetings. My name is <span id="k">Josephino Cambosa</span>. I specialize in penetration testing, network/host analysis, digital forensics, and incident response.</p>
-<a href="https://www.credly.com/badges/c36d800d-6a0d-4a88-ad8c-78192a23a523" target="_blank">GIAC Network Forensic Analyst (GNFA)</a>
-<a href="https://www.credly.com/badges/c9d2c93b-e6b2-479a-9319-607c138d31e0" target="_blank">GIAC Certified Forensic Examiner (GCFE)</a>
-<a href="https://www.credly.com/badges/55fdf73e-fca1-4420-b5b6-7e35dcbb702d" target="_blank">GIAC Response and Industrial Defense (GRID)</a>
-<a href="https://www.credly.com/badges/9dccdccb-cdf6-481f-9b14-1c6ff6bf7b4d" target="_blank">CompTIA Security+</a>
-
 <p>I enjoy tracking down potential weaknesses, exploiting vulnerabilities, and crafting creative solutions to eliminate them.</p>
 <p>"There is only hard work, late nights, early mornings, practice, rehearsal, repetition, study, sweat, blood, toil, frustration, and discipline." - Jocko Willink </p>
-<p>If you would like to contact me, email <a href="tacticaltyper@protonmail.com">tacticaltyper@protonmail.com</a> or reach out on <a href="https://www.linkedin.com/in/josephino-cambosa/">LinkedIn</a>.
-You can explore my interests on <a href="https://twitter.com/TacticalTypist">Twitter</a> and <a href="https://github.com/cambosa">Github</a> as well.</p>
-<span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> ssh -D 4128 -i /tmp/key_09123lk4hsdf.pem -p 2048 root@server 'rm -rf /home/user/whoami.txt' 
+<p>If you would like to contact me, email <a href="tacticaltyper@protonmail.com">tacticaltyper@protonmail.com</a> or send a message on <a href="https://www.linkedin.com/in/josephino-cambosa/">LinkedIn</a>.
+<br>
+<span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> ssh -D 4128 -i /tmp/key_09123lk4hsdf.pem -p 2048 root@server 'rm -rf /home/user/whoami.txt'
+<span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> python3 osint.py --target="^(C|c)ambosa" --target="TacticalTypist" -it -v -o "/tmp/cambosa.txt"
+<br>
+[!] Twitter found <a href="https://twitter.com/TacticalTypist">https://twitter.com/TacticalTypist</a>
+[!] Github found <a href="https://github.com/cambosa">https://github.com/cambosa</a>
+[!] Certifications found:
+<ul>
+<li><a href="https://www.credly.com/badges/c36d800d-6a0d-4a88-ad8c-78192a23a523" target="_blank">GIAC Network Forensic Analyst (GNFA)</a></li>
+<li><a href="https://www.credly.com/badges/c9d2c93b-e6b2-479a-9319-607c138d31e0" target="_blank">GIAC Certified Forensic Examiner (GCFE)</a></li>
+<li><a href="https://www.credly.com/badges/55fdf73e-fca1-4420-b5b6-7e35dcbb702d" target="_blank">GIAC Response and Industrial Defense (GRID)</a></li>
+<li><a href="https://www.credly.com/badges/9dccdccb-cdf6-481f-9b14-1c6ff6bf7b4d" target="_blank">CompTIA Security+</a>
+</ul>
+[+] Task complete   
