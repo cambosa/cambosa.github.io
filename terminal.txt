@@ -1,16 +1,20 @@
 <span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> ssh -D 4128 -C -f -i /tmp/key_09123lk4hsdf.pem -p 2048 -q root@server '[ -f /home/user/whoami.txt ] && cat /home/user/whoami.txt' 
-<br>
-<p>Greetings. My name is <span id="k">Josephino Cambosa</span>. I specialize in penetration testing, network/host analysis, digital forensics, and incident response.</p>
-<p>I enjoy tracking down potential weaknesses, exploiting vulnerabilities, and crafting creative solutions to eliminate them.</p>
+<p>Greetings. My name is <span id="k">Josephino Cambosa</span>. I specialize in penetration testing, network analysis, digital forensics, and incident response. I enjoy tracking down weaknesses, exploiting vulnerabilities, and developing solutions to eliminate them.</p>
 <p>"There is only hard work, late nights, early mornings, practice, rehearsal, repetition, study, sweat, blood, toil, frustration, and discipline." - Jocko Willink </p>
-<p>If you would like to contact me, email <a href="tacticaltyper@protonmail.com">tacticaltyper@protonmail.com</a> or send a message on <a href="https://www.linkedin.com/in/josephino-cambosa/">LinkedIn</a>.
-<br>
+<p>If you would like to contact me, my public email is <a href="tacticaltyper@protonmail.com">tacticaltyper@protonmail.com</a> and here is my <a href="https://getsession.org/" target="_blank">Session ID</a>:</p>
+<figure> 
+  <pre><code class=language-html>
+  05aa341b15ee9ee7caa75c2df718442de0c8a5225511ae375a9fdd43c56ae09461
+  </code></pre>
+</figure>
 <span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> ssh -D 4128 -i /tmp/key_09123lk4hsdf.pem -p 2048 root@server 'rm -rf /home/user/whoami.txt'
 <span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> python3 osint.py --target="^(C|c)ambosa" --target="TacticalTypist" -it -v -o "/tmp/cambosa.txt"
 <br>
-[!] Twitter found <a href="https://twitter.com/TacticalTypist">https://twitter.com/TacticalTypist</a>
-[!] Github found <a href="https://github.com/cambosa">https://github.com/cambosa</a>
-[!] Certifications found:
+[*] Successfully initiated scan.
+[!] LinkedIn <a href="https://www.linkedin.com/in/josephino-cambosa/" target="_blank">LinkedIn</a>
+[!] Github <a href="https://github.com/cambosa" target="_blank">https://github.com/cambosa</a>
+[!] Twitter <a href="https://twitter.com/TacticalTypist" target="_blank">https://twitter.com/TacticalTypist</a>
+[!] Certifications:
 <ul>
 <li><a href="https://www.credly.com/badges/6e0e326a-af10-4137-8e51-050b68c48a2e" target="_blank">GIAC Penetration Tester (GPEN)</a></li>
 <li><a href="https://www.credly.com/badges/c36d800d-6a0d-4a88-ad8c-78192a23a523" target="_blank">GIAC Network Forensic Analyst (GNFA)</a></li>
@@ -18,4 +22,3 @@
 <li><a href="https://www.credly.com/badges/55fdf73e-fca1-4420-b5b6-7e35dcbb702d" target="_blank">GIAC Response and Industrial Defense (GRID)</a></li>
 <li><a href="https://www.credly.com/badges/9dccdccb-cdf6-481f-9b14-1c6ff6bf7b4d" target="_blank">CompTIA Security+</a>
 </ul>
-[+] Task complete   
