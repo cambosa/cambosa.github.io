@@ -12,6 +12,7 @@
 [!] Github found <a href="https://github.com/cambosa">https://github.com/cambosa</a>
 [!] Certifications found:
 <ul>
+<li><a href="https://www.credly.com/badges/6e0e326a-af10-4137-8e51-050b68c48a2e" target="_blank">GIAC Penetration Tester (GPEN)</a></li>
 <li><a href="https://www.credly.com/badges/c36d800d-6a0d-4a88-ad8c-78192a23a523" target="_blank">GIAC Network Forensic Analyst (GNFA)</a></li>
 <li><a href="https://www.credly.com/badges/c9d2c93b-e6b2-479a-9319-607c138d31e0" target="_blank">GIAC Certified Forensic Examiner (GCFE)</a></li>
 <li><a href="https://www.credly.com/badges/55fdf73e-fca1-4420-b5b6-7e35dcbb702d" target="_blank">GIAC Response and Industrial Defense (GRID)</a></li>
