@@ -1,8 +1,9 @@
 <span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> ssh -D 4128 -C -f -i /tmp/key_09123lk4hsdf.pem -p 2048 -q root@server '[ -f /home/user/whoami.txt ] && cat /home/user/whoami.txt' 
-<p>Greetings. My name is <span id="k">Josephino Cambosa</span>. I specialize in penetration testing, network analysis, digital forensics, and incident response. I enjoy tracking down weaknesses, exploiting vulnerabilities, and developing solutions to eliminate them.</p>
+<br>
+<p>Greetings. My name is <span id="a">Josephino Cambosa</span>. I specialize in penetration testing, network analysis, digital forensics, and incident response.</p>
+<p>I enjoy tracking down weaknesses, exploiting vulnerabilities, and developing solutions to eliminate them.</p>
 <p><i>"There is only hard work, late nights, early mornings, practice, rehearsal, repetition, study, sweat, blood, toil, frustration, and discipline." - Jocko Willink</i></p>
 <p>If you would like to contact me, my public email is <a href="mailto:tacticaltyper@protonmail.com"><span id="a">tacticaltyper@protonmail.com</span></a> and my <a href="https://getsession.org/" target="_blank">Session ID</a> is 05aa341b15ee9ee7caa75c2df718442de0c8a5225511ae375a9fdd43c56ae09461</p>
-<span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> ssh -D 4128 -i /tmp/key_09123lk4hsdf.pem -p 2048 root@server 'rm -rf /home/user/whoami.txt'
 <span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> python3 osint.py --target="^(C|c)ambosa" --target="TacticalTypist" -it -v -o "/tmp/cambosa.txt"
 [*] Successfully initiated scan.
 [!] LinkedIn <a href="https://www.linkedin.com/in/josephino-cambosa/" target="_blank">https://www.linkedin.com/in/josephino-cambosa/</a>
