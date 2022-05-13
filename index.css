@@ -30,6 +30,10 @@
     z-index:10;
 }
 
+body {
+	background-color:#000000;
+}
+
 a {
 	color: #0bc;
 	text-decoration: none;
