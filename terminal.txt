@@ -6,8 +6,9 @@
 <span id="a">jcambosa@webserver</span>:<span id="b">~</span><span id="c">#</span> python3 osint.py --target="^(C|c)ambosa" --target="TacticalTypist" -it -v -o "/tmp/cambosa.txt"
 <br>
 [+] LinkedIn    <a href="https://www.linkedin.com/in/josephino-cambosa/" target="_blank">https://www.linkedin.com/in/josephino-cambosa/</a>
-[+] Twitter     <a href="https://twitter.com/TacticalTypist" target="_blank">https://twitter.com/TacticalTypist</a>
+[+] Hackthebox  <a href="https://app.hackthebox.com/profile/1227925" target="_blank">https://app.hackthebox.com/profile/1227925</a>
 [+] Github      <a href="https://github.com/cambosa" target="_blank">https://github.com/cambosa</a>
+
 [+] Certifications:
 <ul>
 <li><a href="https://www.credly.com/badges/6e0e326a-af10-4137-8e51-050b68c48a2e" target="_blank">GIAC Penetration Tester (GPEN)</a></li>
